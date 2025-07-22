@@ -107,7 +107,7 @@ Volume weak correlation
 
 ---
 
-🔹## All Graphs & Results 
+## 🔹 All Graphs & Results 
 
  Distribution of Daily Returns
 
@@ -143,23 +143,23 @@ Volume weak correlation
 
 ##  Linear Regression Modeling
 
-### Features Used:
+ Features Used:
 
 * `Open`, `High`, `Low`, `Volume`
 * Target: `Close`
 
-### Train-Test Split:
+ Train-Test Split:
 
 * 80% training data, 20% testing data
 
-### Performance Metrics:
+ Performance Metrics:
 
 - ***MAE of 0.93** — a sign of high accuracy.
 - **MSE of 1.67** shows low error varianc.
 - **R² Score of 0.9998** suggests the model explains **over 99.97% of the variance** in the target — an **excellent fit**.
 
 
-### 🔍 Insights & Suggestions 
+###  Insights & Suggestions 
 
 -Invest more in Financials, Materials, and Energy — these are the biggest and most trusted sectors in the market.
 
