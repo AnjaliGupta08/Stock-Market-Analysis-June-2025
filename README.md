@@ -17,19 +17,19 @@ QYG       29.24
 
 > **BRK.B** has the highest EPS.
 
+
 🔹 Energy sector has the highest average EPS, suggesting stronger earnings across companies in that group and Technology has the lowest EPS.
 
-🔹 Technology sector exhibits the highest average Price-to-Earnings (PE) ratio, suggesting high investor expectations for future growth, even if current earnings are          relatively modest. Energy sector has the lowest PE ratio, implying undervaluation or more conservative growth prospects.
+🔹 Technology sector exhibits the highest average Price-to-Earnings (PE) ratio, suggesting high investor expectations for future growth, even if current earnings are            relatively modest. Energy sector has the lowest PE ratio, implying undervaluation or more conservative growth prospects.
 
 🔹 The average `Close` price for the month was **₹152.73**. 
 
 🔹 The median number of shares traded (Volume Traded) per day was **45.8 million**. 
 
 🔹 Price ranged from ₹127.07 to ₹178.44 over June 2025.
-🔹
 
 
-### 🔹 Stock Volatility Analysis
+🔹 Stock Volatility Analysis
 
 ```python
 Daily Return Mean: 0.0013
@@ -37,6 +37,37 @@ Daily Return Std: 0.0172
 ```
 
 > Daily return volatility was **1.72%**, indicating a moderately stable stock.
+
+🔹 Top 5 Companies by Market Capitalization
+
+These are the top 5 companies in the dataset based on their total market cap (in ₹ trillions):
+
+| Ticker | Market Cap (₹ Trillions) |
+|--------|---------------------------|
+| NVDA   | 3.48                      |
+| MSFT   | 2.82                      |
+| AAPL   | 2.66                      |
+| META   | 1.31                      |
+| ABT    | 1.29                      |
+
+>  **Insight:** NVDA has the highest market cap, which means investors trust it the most. These companies are huge and play an important role in the overall stock market.
+
+ 🔹 Top 5 Sectors by Market Capitalization
+
+These are the top 5 companies in the dataset based on their total market cap (in ₹ trillions):
+
+
+| Sector       | Market Cap (₹ Trillions) |
+|--------------|---------------------------|
+| Financials   | 14.85                     |
+| Materials    | 12.21                     |
+| Energy       | 10.95                     |
+| Industrials  | 10.95                     |
+| Real Estate  | 10.03                     |
+
+>  **Insight:** Financials is the largest sector by market cap, which means this sector includes some of the biggest and most trusted companies. These sectors are important for the economy and influence the overall market.
+
+
 
 ### 🔹 Strongest Correlated Features
 
