@@ -16,23 +16,18 @@ QYG       29.24
 ```
 
 > **BRK.B** has the highest EPS.
-🔹 Energy sector has the highest average EPS, suggesting stronger earnings across companies in that group.
 
-🔹 The average `Close` price for the month was **₹152.73**.
+🔹 Energy sector has the highest average EPS, suggesting stronger earnings across companies in that group and Technology has the lowest EPS.
+
+🔹 Technology sector exhibits the highest average Price-to-Earnings (PE) ratio, suggesting high investor expectations for future growth, even if current earnings are          relatively modest. Energy sector has the lowest PE ratio, implying undervaluation or more conservative growth prospects.
+
+🔹 The average `Close` price for the month was **₹152.73**. 
+
 🔹 The median number of shares traded (Volume Traded) per day was **45.8 million**. 
 
+🔹 Price ranged from ₹127.07 to ₹178.44 over June 2025.
+🔹
 
-
->
-
-### 🔹 Maximum and Minimum Prices
-
-```python
-Max Close = 178.44
-Min Close = 127.07
-```
-
-> Price ranged from ₹127.07 to ₹178.44 over June 2025.
 
 ### 🔹 Stock Volatility Analysis
 
