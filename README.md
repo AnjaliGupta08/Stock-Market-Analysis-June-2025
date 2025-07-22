@@ -68,6 +68,33 @@ These are the top 5 companies in the dataset based on their total market cap (in
 >  **Insight:** Financials is the largest sector by market cap, which means this sector includes some of the biggest and most trusted companies. These sectors are important for the economy and influence the overall market.
 
 
+🔹 Average Dividend Yield by Sector
+>  **Insight:** Sectors like **Utilities**-__ 3.55 %__, **Real Estate**-__ 3.50 % __, and **Consumer Staples**-__ 3.46 % __ offer the highest dividend yields, making them attractive for income-focused investors. In contrast, **Technology**-__1.05 %__ has the lowest average yield.
+
+🔹 **META** was the most volatile stock of the month with an average daily price swing of **23.15**.This stock experienced the largest intraday price fluctuations during the month.
+
+🔹**Financials** was the most volatile stock of the month with an average daily price swing of ** 6.068036**.This stock experienced the largest intraday price fluctuations during the month.
+
+🔹**05-06-2025** saw the highest average market movement, with a **3.83%** increase in daily price change across all stocks.
+
+🔹Stocks with Price Increase Despite High Volume
+
+| Date       | Ticker | Open Price | Close Price | Volume Traded |
+|------------|--------|------------|-------------|----------------|
+| 01-06-2025 | YPY    | 260.55     | 265.28      | 14,012,358     |
+| 01-06-2025 | VKD    | 182.43     | 186.89      | 14,758,143     |
+| 01-06-2025 | GPH    | 88.06      | 90.51       | 14,070,514     |
+| 01-06-2025 | HXJ    | 156.26     | 160.38      | 14,091,615     |
+| 01-06-2025 | TDW    | 270.11     | 271.45      | 8,083,607      |
+
+>  **Insight:** Despite high trading volumes, these stocks managed to close higher than they opened, suggesting **strong buying interest or positive sentiment** in the market.
+
+🔹Sectors with **smaller market caps** like Utilities and Real Estate tend to offer **higher dividend yields**, while **larger sectors** like Materials and Industrials typically provide **lower yields**.
+
+
+
+---
+
 
 ### 🔹 Strongest Correlated Features
 
