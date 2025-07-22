@@ -160,4 +160,14 @@ Volume weak correlation
 
 
 ### 🔍 Insights & Suggestions 
----
+
+-Invest more in Financials, Materials, and Energy — these are the biggest and most trusted sectors in the market.
+
+-Sectors like Utilities and Real Estate pay higher dividends. These are good for building reliable income over time.
+
+-Stocks like META had big price swings and high trading volume. This means people are paying a lot of attention — useful for spotting trends or risks.
+
+-On days like June 5, the market moved a lot. These could be good or risky times to make big announcements or financial moves.
+
+-For classifying market trends (up or down), Logistic Regression works best based on the current data.
+
